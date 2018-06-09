@@ -1,5 +1,6 @@
 NUM=1000
 number = 11
+number = 12
 num=12
 num1=10
 num3=1000
