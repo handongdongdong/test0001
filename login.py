@@ -7,4 +7,4 @@ num1=10
 num3=1000
 num4=22
 num5=1
-num6=12
+num9=15
